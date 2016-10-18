@@ -56,8 +56,8 @@ class Date{
 		
 		
 		System.out.println("AFTER SWAPPING  :");
-		System.out.println("D1 values: "+"DATE "+D1.getDate() + "MONTH :"+D1.getMonth() +"YEAR :"+D1.getYear());
-		System.out.println("D2 values: "+"DATE "+D2.getDate() + "MONTH :"+D2.getMonth() +"YEAR :"+D2.getYear());
+		System.out.println("D1 values: "+" DATE "+D1.getDate() + " MONTH :"+D1.getMonth() +"YEAR :"+D1.getYear());
+		System.out.println("D2 values: "+" DATE "+D2.getDate() + " MONTH :"+D2.getMonth() +"YEAR :"+D2.getYear());
 		
 	}
 	
